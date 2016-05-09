@@ -23,8 +23,6 @@
 * [ ] Os testes existem e apresentam uma boa cobertura? (Exemplo: Há testes de borda?, A árvore de decisão está coberta?)
 * [ ] As exceções foram testadas?
 
-#### Segurança
-
 
 #### Segurança / Programação Defensiva
 
