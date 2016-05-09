@@ -26,5 +26,9 @@
 
 #### Segurança / Programação Defensiva
 
+* [ ] O código está livre de estruturas de tamanho constante e funções para dados de tamanho dinâmico sem checagem.
+* [ ] Nunca faça código mais complexo que o necessário. Complexidade alimenta bugs, incluindo problemas de segurança.
+* [ ] Qualquer código é inseguro até  que se prove o contrário.
+* [ ] Sempre espere que o mais improvável possa acontecer no fluxo do seu código.
 
 #### Desempenho
