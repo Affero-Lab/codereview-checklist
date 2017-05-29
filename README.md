@@ -32,3 +32,13 @@
 * [ ] Sempre espere que o mais improvável possa acontecer no fluxo do seu código.
 
 #### Desempenho
+
+#### Client
+
+* [ ] O código gerado está gerando erro no tslint ?
+* [ ] O código gerado está nos padres ES6 ?
+* [ ] É possível componentizar o código gerado ?
+* [ ] Existe código sem utilização ?
+* [ ] CSS está em um arquivo separado ?
+* [ ] CSS está utilizando "!imports" ?
+* [ ] O código alterado no component pode impedir o funcionamento em outro lugar ?
